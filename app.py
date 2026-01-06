@@ -3,7 +3,7 @@ from google import genai
 
 # Best practice: Set your API key as an environment variable (GEMINI_API_KEY)
 # Alternatively, pass it directly: client = genai.Client(api_key="YOUR_KEY")
-client = genai.Client(api_key="AIzaSyBn3fZkmMfoN8fbeW4ObMmmcvcBpHThlz8")
+client = genai.Client(api_key="Gemini_API_Key")
 
 def get_ai_response(prompt):
     response = client.models.generate_content(

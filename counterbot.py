@@ -2,7 +2,7 @@ import os
 import random
 from google import genai
 
-client = genai.Client(api_key="AIzaSyBn3fZkmMfoN8fbeW4ObMmmcvcBpHThlz8")
+client = genai.Client(api_key="Gemini_API_Key")
 history = []
 counter = 0
 

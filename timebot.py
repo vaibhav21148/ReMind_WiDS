@@ -3,7 +3,7 @@ import time
 from datetime import datetime, timedelta
 from google import genai
 
-client = genai.Client(api_key="AIzaSyBn3fZkmMfoN8fbeW4ObMmmcvcBpHThlz8")
+client = genai.Client(api_key="Gemini_API_Key")
 # Stores list of [timestamp, query_text, has_been_quizzed]
 memory_vault = []
 
