@@ -4,7 +4,7 @@ import os
 
 # SETUP: Put your Gemini API Key here
 
-REAL_API_KEY = "AIzaSyC_qmEWq29rGiUrTipPaUkV3ZyRlnFR3-M" 
+REAL_API_KEY = "AIz" 
 
 try:
     genai.configure(api_key=REAL_API_KEY)

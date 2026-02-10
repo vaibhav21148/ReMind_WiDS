@@ -3,7 +3,7 @@ import json
 import os
 from datetime import datetime
 
-REAL_API_KEY = "AIzaSyC_qmEWq29rGiUrTipPaUkV3ZyRlnFR3-M" 
+REAL_API_KEY = "AIz" 
    
 JOURNAL_FILE = "my_journal.json"
 genai.configure(api_key=REAL_API_KEY)

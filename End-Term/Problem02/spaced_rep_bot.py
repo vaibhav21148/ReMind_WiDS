@@ -4,7 +4,7 @@ import os
 import time
 from datetime import datetime
 
-REAL_API_KEY = "AIzaSyC_qmEWq29rGiUrTipPaUkV3ZyRlnFR3-M" 
+REAL_API_KEY = "AIz" 
 
 DATA_FILE = "flashcards.json"
 genai.configure(api_key=REAL_API_KEY)
