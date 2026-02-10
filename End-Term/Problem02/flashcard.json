@@ -1,0 +1,14 @@
+[
+    {
+        "question": "What is photosynthesis?",
+        "answer": "Photosynthesis is the process by which plants use sunlight, water, and carbon dioxide to create oxygen and energy in the form of sugar.",
+        "level": 1,
+        "last_reviewed": "2023-10-27T10:00:00.123456"
+    },
+    {
+        "question": "What is the speed of light?",
+        "answer": "The speed of light in a vacuum is approximately 299,792,458 meters per second.",
+        "level": 0,
+        "last_reviewed": "2023-10-27T10:05:00.654321"
+    }
+]
